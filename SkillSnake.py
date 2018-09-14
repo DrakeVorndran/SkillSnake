@@ -1,6 +1,6 @@
 import random
 board = []
-boardSize = 5
+boardSize = input("how large would you like the board to be")
 playerx=0
 playery=0
 score = 0
